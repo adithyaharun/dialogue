@@ -1,6 +1,8 @@
 # Dialogue
 
-A new Flutter project.
+A messaging application, built patiently using Flutter.
+
+**PS.** *This app is currently in a heavy, but slow development. Wait for it. I'm serious.*
 
 ## Getting Started
 
